@@ -1,3 +1,3 @@
 # Bitcoin-Prices-Realtime
 
-This program get prices in real-time.
+This program get Bitcoin prices in real-time.
